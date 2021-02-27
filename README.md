@@ -2,4 +2,7 @@
 Go and see the [place](https://alin.space) where dreams come true.
 
 ### 📚Fluent Libraries
-[FluentArguments](https://github.com/onixion/FluentArguments), [FluentExceptions](https://github.com/onixion/FluentExceptions), [FluentCommands](https://github.com/onixion/FluentCommands) and [FluentImages](https://github.com/onixion/FluentImages).
+<img src="https://github.com/onixion/FluentArguments/blob/main/Assets/Icon.jpg" width="15" height="15"> [FluentArguments - Fluent library for argument validation](https://github.com/onixion/FluentArguments)</br>
+<img src="https://github.com/onixion/FluentExceptions/blob/main/Assets/Icon.jpg" width="15" height="15"> [FluentExceptions - Fluent library for exception handling](https://github.com/onixion/FluentExceptions)</br>
+<img src="https://github.com/onixion/FluentCommands/blob/main/Assets/Icon.jpg" width="15" height="15"> [FluentCommands - Fluent library for command handling](https://github.com/onixion/FluentCommands)</br>
+<img src="https://github.com/onixion/FluentImages/blob/main/Assets/Icon.jpg" width="15" height="15"> [FluentImages - Fluent library for image processing](https://github.com/onixion/FluentImages)</br>
